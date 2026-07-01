@@ -30,9 +30,6 @@ This dashboard provides a consolidated view of regional sales performance for bu
 - **Bing Maps visual** : geographic sales distribution
 - **Bookmarks & Buttons** : for interactive Sales/Profit/Quantity toggle navigation
 
-## Dashboard Preview
-
-![Sales Overview Dashboard](./assets/dashboard-preview.png)
 
 ## What This Project Demonstrates
 
