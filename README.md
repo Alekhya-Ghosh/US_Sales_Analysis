@@ -8,12 +8,12 @@ This dashboard provides a consolidated view of regional sales performance for bu
 
 ## Features
 
-- **Dynamic KPI Toggle** — Switch between Sales, Profit, and Quantity views using interactive buttons
-- **Year Selector** — Filter the entire dashboard by year (2021–2024)
-- **Regional Sales Cards** — Monthly sales trend (Jan–Dec) for Central, East, South, and West regions, each showing current sales vs. prior year (PY) sales
-- **Geographic Sales Map** — Bubble map visualizing sales distribution by state, sized by sales volume
-- **State-Level Breakdown** — Horizontal bar comparison of top-performing states
-- **CY vs PY Metrics Table** — Region-wise comparison of Current Year and Previous Year Sales, Profit, and Quantity, with YoY % change indicators (▲/▼) for quick performance scanning
+- **Dynamic KPI Toggle** - Switch between Sales, Profit, and Quantity views using interactive buttons
+- **Year Selector** : Filter the entire dashboard by year (2021–2024)
+- **Regional Sales Cards** : Monthly sales trend (Jan–Dec) for Central, East, South, and West regions, each showing current sales vs. prior year (PY) sales
+- **Geographic Sales Map** : Bubble map visualizing sales distribution by state, sized by sales volume
+- **State-Level Breakdown** : Horizontal bar comparison of top-performing states
+- **CY vs PY Metrics Table** : Region-wise comparison of Current Year and Previous Year Sales, Profit, and Quantity, with YoY % change indicators (▲/▼) for quick performance scanning
 
 ## Key Insights Surfaced
 
@@ -24,11 +24,11 @@ This dashboard provides a consolidated view of regional sales performance for bu
 
 ## Tools & Techniques
 
-- **Power BI Desktop** — report building and data modeling
-- **DAX** — calculated measures for YoY %, CY/PY comparisons, and dynamic KPI switching
-- **Power Query (M)** — data transformation and cleaning
-- **Bing Maps visual** — geographic sales distribution
-- **Bookmarks & Buttons** — for interactive Sales/Profit/Quantity toggle navigation
+- **Power BI Desktop** : report building and data modeling
+- **DAX** : calculated measures for YoY %, CY/PY comparisons, and dynamic KPI switching
+- **Power Query (M)** : data transformation and cleaning
+- **Bing Maps visual** : geographic sales distribution
+- **Bookmarks & Buttons** : for interactive Sales/Profit/Quantity toggle navigation
 
 ## Dashboard Preview
 
@@ -44,7 +44,7 @@ This dashboard provides a consolidated view of regional sales performance for bu
 ## How to Use
 
 1. Clone this repository
-2. Open `Sales_Overview_Dashboard.pbix` in Power BI Desktop
+2. Open `Sales Overview.pbix` in Power BI Desktop
 3. Use the Sales/Profit/Quantity toggle and year filters to explore the data interactively
 
 ---
