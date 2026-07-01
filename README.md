@@ -49,4 +49,4 @@ This dashboard provides a consolidated view of regional sales performance for bu
 
 ---
 **Author:** Alekhya Ghosh
-[LinkedIn](https://linkedin.com/in/alekhya-ghosh) | [GitHub](https://github.com/Alekhya-Ghosh) 
+[LinkedIn](https://www.linkedin.com/in/alekhya-ghosh-0a9963248/) | [GitHub](https://github.com/Alekhya-Ghosh) 
